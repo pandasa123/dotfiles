@@ -1,0 +1,3 @@
+host umich
+	HostName oncampus-course.engin.umich.edu
+	User pandasa
